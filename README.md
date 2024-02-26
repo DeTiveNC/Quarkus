@@ -1,3 +1,3 @@
 # Quarkus
 
-Things for quarkus now is private then public
+Repository for my Quarkus projects and Tutorials too
